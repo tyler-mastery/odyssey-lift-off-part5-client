@@ -4,8 +4,7 @@
   "private": true,
   "description": "front-end demo app for Apollo's lift-off IV course",
   "engines": {
-    "node": ">=16.0.0",
-    "npm": ">=7.0.0"
+    "node": ">=15.0.0"
   },
   "dependencies": {
     "@apollo/client": "^3.3.6",
